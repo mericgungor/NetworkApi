@@ -1,0 +1,5 @@
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi\bin\Debug\NetworkApi.Business.dll
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi\bin\Debug\NetworkApi.Business.pdb
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi\obj\Debug\NetworkApi.Business.csprojResolveAssemblyReference.cache
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi\obj\Debug\NetworkApi.Business.dll
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi\obj\Debug\NetworkApi.Business.pdb

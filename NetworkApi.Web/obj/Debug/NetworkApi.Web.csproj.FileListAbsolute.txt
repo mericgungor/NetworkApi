@@ -1,0 +1,8 @@
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\bin\NetworkApi.Web.dll.config
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\bin\NetworkApi.Web.dll
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\bin\NetworkApi.Web.pdb
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\bin\NetworkApi.Business.dll
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\bin\NetworkApi.Business.pdb
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\obj\Debug\NetworkApi.Web.csprojResolveAssemblyReference.cache
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\obj\Debug\NetworkApi.Web.dll
+U:\Projeler\Diger\NetworkApi\NetworkApi\NetworkApi.Web\obj\Debug\NetworkApi.Web.pdb
